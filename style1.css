@@ -1,0 +1,79 @@
+body{
+    background: rgb(17, 17, 17);
+    font: normal 15px Arial;
+}
+header{
+    padding: 30px;
+    color:white;
+    text-align: center;
+    Font: normal 30px Arial;
+}
+
+footer{
+    padding: 10px;
+    color:white;
+    text-align: center;
+    font-style: italic;
+    
+}
+div#formulario{
+
+    padding: 10px;
+
+}
+label{
+    font: normal 15px Arial;
+    padding: 10;
+}
+div#resultado{
+    padding: 30px;
+    text-align: center;
+    font: normal 20px Arial;
+}
+
+input[type=button], input[type=submit], input[type=reset] {
+    background-color: #1abc9c;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 20px;
+  }
+  div#formulario{
+    text-align: justify;
+    margin: auto;
+    padding: 20px;
+    font-family: TimesNewRoman, "Times New Roman",
+     Times, Baskerville,
+      Georgia, serif; font-size: 18px;
+       font-style: normal; font-variant: normal;
+        font-weight: 500; line-height: 26.4px;
+    text-align: center;
+
+  }
+  section#fm1{
+    background: white;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    padding: 50px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.397);
+  }
+  .header {
+    padding: 50px;
+    margin: auto;
+    text-align: center;
+    width: 500px;
+    background: #1abc9c;
+    color: white;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    font-family: TimesNewRoman, "Times New Roman",
+    Times, Baskerville,
+     Georgia, serif; font-size: 30px;
+    font-style: normal; font-variant: normal;
+    font-weight: 500; line-height: 26.4px;
+  }

@@ -1,0 +1,100 @@
+body{
+    background: rgb(17, 17, 17);
+    font: normal 15px Arial;
+    margin: 0;
+}
+section{
+    background: white;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    padding: 50px;
+    width: 1000px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.397);
+}
+footer{
+    padding: 10px;
+    color:white;
+    text-align: center;
+    font-style: italic;
+    font: normal 20px Arial;
+    
+}
+.header {
+    padding: 60px;
+    margin: auto;
+    text-align: center;
+    width: 1000px;
+    background: #1abc9c;
+    color: white;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    font-family: TimesNewRoman, "Times New Roman",
+    Times, Baskerville,
+     Georgia, serif; font-size: 30px;
+    font-style: normal; font-variant: normal;
+    font-weight: 500; line-height: 26.4px;
+  }
+  .texto{
+    text-align: justify;
+    margin: auto;
+    padding: 1px;
+    font-family: TimesNewRoman, "Times New Roman",
+     Times, Baskerville,
+      Georgia, serif; font-size: 18px;
+       font-style: normal; font-variant: normal;
+        font-weight: 500; line-height: 26.4px;
+  }
+ 
+div#img{
+    margin: auto;
+    text-align: left;
+}
+img#logo{
+    width: 50px;
+    height: 50px;
+}
+img#produto{
+    width: 50%;
+    height: 50%;
+}
+
+* {
+    box-sizing: border-box;
+  }
+  
+  .row {
+    display: flex;
+    text-align: center;
+    padding: 20px;
+   
+  }
+  
+  /* Create three equal columns that sits next to each other */
+  .column {
+    flex: 33.33%;
+    padding: 5px;}
+.equipe{
+    border-radius: 100%;
+    width: 80px;
+    height: 80px;
+    
+}
+div#contato{
+    text-align: center;
+   
+
+}
+form#f1{
+    text-align: center;
+}
+input[type=button], input[type=submit], input[type=reset] {
+    background-color: #1abc9c;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 20px;
+  }
