@@ -1,1 +1,3 @@
-# Balo.OS.github.io
+# Balofoide OS
+
+Pagina feita para um trabalho academico.
